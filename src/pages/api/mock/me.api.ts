@@ -6,7 +6,7 @@ export default async function me(req: NextApiRequest, res: NextApiResponse) {
       code: 200,
       data: {
         id: 1,
-        name: 'SIP HALAL',
+        name: 'SIAR HALAL',
         token: 'dummy-token',
       },
     });

@@ -20,7 +20,7 @@ export default function Footer() {
           <div className='flex flex-col gap-8'>
             <Logo />
             <Typography variant='b2' className='max-w-md'>
-              Bergabunglah dengan Pahlawan SIP, Lawan Kabut Jahat Syubhat dan
+              Bergabunglah dengan Pahlawan SIAR, Lawan Kabut Jahat Syubhat dan
               Bangun Dunia Kuliner yang Halal dan Bersih!
             </Typography>
             <div className='flex items-center gap-8'>

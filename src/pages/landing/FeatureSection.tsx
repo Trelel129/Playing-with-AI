@@ -45,8 +45,8 @@ export default function FeatureSection() {
                 Menjadi Bagian dari Solusi, dengan Kolaborasi
               </Typography>
               <Typography variant='b1' color='secondary'>
-                Sebagai Pahlawan SIP, Anda bertugas dalam mendampingi UMKM dalam
-                proses sertifikasi halal
+                Sebagai Pahlawan SIAR, Anda bertugas dalam mendampingi UMKM
+                dalam proses sertifikasi halal
               </Typography>
             </Tween>
           </Reveal>

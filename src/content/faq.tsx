@@ -136,7 +136,7 @@ export const FAQ_CONTENT: FAQContentType[] = [
     ],
   },
   {
-    title: 'Surga Kuliner SIP & Koin SIP',
+    title: 'Surga Kuliner SIAR & Koin SIP',
     icon: Coins,
     child: [
       {
@@ -146,26 +146,26 @@ export const FAQ_CONTENT: FAQContentType[] = [
             Koin SIP adalah mata uang virtual di SIPHALAL. Anda bisa
             mendapatkannya setiap kali berhasil menyertifikasi UMKM atau melalui
             sedekah dari user lain. Koin ini bisa digunakan untuk membeli
-            ornamen di Surga Kuliner SIP Anda.
+            ornamen di Surga Kuliner SIAR Anda.
           </>
         ),
       },
       {
-        title: 'Bagaimana saya mengutak-atik Surga Kuliner SIP saya?',
+        title: 'Bagaimana saya mengutak-atik Surga Kuliner SIAR saya?',
         description: (
           <>
-            Di dashboard Anda, klik Surga Kuliner SIP. Di sana Anda bisa
+            Di dashboard Anda, klik Surga Kuliner SIAR. Di sana Anda bisa
             menambahkan atau mengubah ornamen dengan menggunakan Koin SIP.
           </>
         ),
       },
       {
         title:
-          'Apakah ada batasan untuk menambahkan ornamen di Surga Kuliner SIP saya?',
+          'Apakah ada batasan untuk menambahkan ornamen di Surga Kuliner SIAR saya?',
         description: (
           <>
             Tidak ada batasan jumlah ornamen yang dapat Anda tambahkan di Surga
-            Kuliner SIP Anda, namun pastikan Anda memiliki Koin SIP yang cukup
+            Kuliner SIAR Anda, namun pastikan Anda memiliki Koin SIP yang cukup
             untuk setiap pembelian ornamen.
           </>
         ),

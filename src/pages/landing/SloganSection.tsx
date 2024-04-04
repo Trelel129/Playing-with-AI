@@ -11,7 +11,7 @@ export default function SloganSection() {
       <div className='layout z-10'>
         <div className='flex flex-col items-start gap-4 py-20 w-full md:w-1/2'>
           <Typography as='h1' variant='j2'>
-            Siap menjadi Pahlawan SIP dan mengubah dunia kuliner?
+            Siap menjadi Pahlawan SIAR dan mengubah dunia kuliner?
           </Typography>
           <Typography variant='b1' color='secondary'>
             Mulai Petualangan Anda Sekarang!

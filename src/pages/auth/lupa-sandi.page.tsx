@@ -61,7 +61,7 @@ export default function LoginPage() {
               className='space-y-6 layout md:w-2/3'
             >
               <AuthSection.FormTitle
-                title='Lupa kata sandi? Jangan khawatir Pahlawan SIP!'
+                title='Lupa kata sandi? Jangan khawatir Pahlawan SIAR!'
                 description='Masukkan alamat email yang terdaftar pada akunmu. Kami akan mengirim email berisi tautan untuk mereset kata sandi agar kamu bisa kembali melanjutkan petualangan.'
               />
 

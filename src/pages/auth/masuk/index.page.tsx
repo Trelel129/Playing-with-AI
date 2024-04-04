@@ -65,7 +65,7 @@ function LoginPage() {
             >
               <AuthSection.FormTitle
                 title='Masuk ke Akun Anda'
-                description=' Hai Pahlawan SIP! Masukkan identitasmu agar bisa melanjutkan
+                description=' Hai Pahlawan SIAR! Masukkan identitasmu agar bisa melanjutkan
                   petualangan membersihkan kabut jahat Syubhat. Dunia sangat
                   membutuhkanmu!'
               />

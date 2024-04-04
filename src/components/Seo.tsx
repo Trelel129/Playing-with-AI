@@ -4,8 +4,8 @@ import { useRouter } from 'next/router';
 import { openGraph } from '@/lib/helper';
 
 const defaultMeta = {
-  title: 'SIP Halal',
-  siteName: 'SIP Halal',
+  title: 'SIAR Halal',
+  siteName: 'SIAR Halal',
   description: 'Self Declare Halal Certification',
   url: 'https://siphalal.vercel.app',
   type: 'website',

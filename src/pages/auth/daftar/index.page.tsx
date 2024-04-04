@@ -106,7 +106,7 @@ function LoginPage() {
       <AuthSection>
         <AuthSection.Graphic
           prompt='Daftar'
-          description='Bergabunglah untuk menjadi Pahlawan SIP dan bersama-sama membersihkan dunia dari kabut jahat Syubhat!'
+          description='Bergabunglah untuk menjadi Pahlawan SIAR dan bersama-sama membersihkan dunia dari kabut jahat Syubhat!'
         >
           <NextImage
             src='/images/auth/daftar.png'

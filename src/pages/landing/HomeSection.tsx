@@ -93,8 +93,8 @@ export default function HomeSection() {
         </div>
 
         <Typography variant='s1' color='secondary' className='max-w-lg'>
-          Bergabunglah dengan Pahlawan SIP, Lawan Kabut Jahat Syubhat dan Bangun
-          Dunia Kuliner yang Halal dan Bersih!
+          Bergabunglah dengan Pahlawan SIAR, Lawan Kabut Jahat Syubhat dan
+          Bangun Dunia Kuliner yang Halal dan Bersih!
         </Typography>
 
         <div className='flex flex-wrap gap-y-2 justify-center gap-x-5 items-center'>
